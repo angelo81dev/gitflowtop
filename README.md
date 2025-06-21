@@ -1,3 +1,5 @@
-# gitflowtop
+a.b.c
 
-Alteração feia direto no GITHUB.
+A = versão TOTAL do sistema
+B = QUANTIDADE DE FUNCIONALIDADES NOVAS
+C = Quantidade de BUGs corrigidos
